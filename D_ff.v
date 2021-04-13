@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
+// Company:
+// Engineer: Alan Sabu
 // 
 // Create Date: 03/25/2021 10:37:25 AM
 // Design Name: 

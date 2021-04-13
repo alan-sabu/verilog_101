@@ -8,9 +8,9 @@ Images of the RTl schematics and Simulations are attached along with the Experim
 
 ## Problems/Experiments-
 
-## 1) D FlipFLop- https://github.com/alan-sabu/verilog101/tree/main/v-codes/1
+ 1) D FlipFLop- https://github.com/alan-sabu/verilog101/tree/main/v-codes/1
 
-## 2) T Flipflop- https://github.com/alan-sabu/verilog101/tree/main/v-codes/2
+ 2) T Flipflop- https://github.com/alan-sabu/verilog101/tree/main/v-codes/2
 
-## 3) 8bit KoggeStone Adder- https://github.com/alan-sabu/verilog101/tree/main/v-codes/3
+ 3) 8bit KoggeStone Adder- https://github.com/alan-sabu/verilog101/tree/main/v-codes/3
 

@@ -22,17 +22,14 @@ This repository is meant for #reference purpose only.
 
 ### 3) 8bit KoggeStone Adder- https://github.com/alan-sabu/verilog101/tree/main/v-codes/3
 ![1Fsim](https://user-images.githubusercontent.com/75666405/114539717-633bcb80-9c72-11eb-9b13-6b09f927dbb6.JPG)
-![1Fdes](https://user-images.githubusercontent.com/75666405/114539720-646cf880-9c72-11eb-9cbd-287f4c7fbf05.JPG)
 
 
 ### 4) 8bit Parity Generator/Checker- https://github.com/alan-sabu/verilog101/tree/main/v-codes/4
 ![1Esim](https://user-images.githubusercontent.com/75666405/117806900-f9601300-b26b-11eb-950a-f77e6fcd1bea.JPG)
-![1Edes](https://user-images.githubusercontent.com/75666405/117806884-f533f580-b26b-11eb-96aa-8585a2d90a0e.JPG)
 
 
 ### 5) Serial Adder- https://github.com/alan-sabu/verilog101/tree/main/v-codes/5
 ![4a-sim](https://user-images.githubusercontent.com/75666405/117807258-7095a700-b26c-11eb-97d4-279ca1e6fbb8.JPG)
-![4a-1](https://user-images.githubusercontent.com/75666405/117807418-ab97da80-b26c-11eb-9bbf-eb8f86ab5cff.JPG)
 
 
 ### 6) 4bit Up/down Counter- https://github.com/alan-sabu/verilog101/tree/main/v-codes/6
